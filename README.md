@@ -2,7 +2,7 @@
 - 👀 I’m interested in proxy servers, data collection, cyber security
 - 🌱 I’m currently working in Fineproxy Team
 - 💞️ I’m looking to collaborate with IT-bloggers
-- 📫 How to reach me [on my site <Fineproxy.de](https://fineproxy.de/)
+- 📫 How to reach me https://fineproxy.de/
 
 <!---
 fineproxyde/fineproxyde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
